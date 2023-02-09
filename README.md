@@ -1,5 +1,5 @@
 # Lungo usage example
-And article explaining it available at [https://lungo.dev/docs](lungo.dev/docs)
+And article explaining it available at [lungo.dev/docs](https://lungo.dev/docs)
 
 ## Intro:
 You will need the docker or podman to run it on your machine.
