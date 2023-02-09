@@ -1,0 +1,2 @@
+database:
+  uri: mongodb://test:testpassword@localhost:27017/test

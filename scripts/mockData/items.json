@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Swordfish (2001)",
+    "content": "Click-Click-Click hackthebank.exe",
+    "kind": "movies"
+  },
+  {
+    "title": "Limitless (2011)",
+    "content": "Pills solve problems",
+    "kind": "movies"
+  },
+  {
+    "title": "The Thirteenth Floor (1999)",
+    "content": "Yep. All this is a high class simulation.",
+    "kind": "movies"
+  },
+  {
+    "title": "Matrix (1999)",
+    "content": "Of course it is my favourite",
+    "kind": "movies"
+  },
+  {
+    "title": "Design Patterns: Elements of Reusable Object-Oriented Software (1994)",
+    "content": "Legend",
+    "kind": "books"
+  },
+  {
+    "title": "Clean Architecture: A Craftsman’s Guide to Software Structure and Design (2016)",
+    "content": "Super handy book about clean architecture",
+    "kind": "books"
+  },
+  {
+    "title": "Building Microservices: Designing Fine-Grained Systems (2015)",
+    "content": "All you need to know about microservices",
+    "kind": "books"
+  },
+  {
+    "title": "The Lord of the Rings (1968)",
+    "content": "I'm a huge fan of Tolkien.",
+    "kind": "books"
+  }
+]
