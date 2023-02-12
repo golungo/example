@@ -1,5 +1,5 @@
 # Lungo usage example
-And article explaining it available at [lungo.dev/docs](https://lungo.dev/docs)
+Detailed description and step-by-step guide are available at [lungo.dev/docs](https://lungo.dev/docs)
 
 ## Intro:
 You will need the docker or podman to run it on your machine.
@@ -9,7 +9,7 @@ The provided example use MongoDB inside a container, configured in docker-compos
 ## Usage:
 - Clone the repo
 ```
-git clone git@github.com:golungo/example
+git clone git@github.com:golungo/example.git
 ```
 - Start the Database
 ```
